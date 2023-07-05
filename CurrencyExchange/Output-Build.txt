@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: CurrencyExchange, Configuration: Debug Any CPU ------
+1>  CurrencyExchange -> C:\Users\ASUS\Desktop\Year 2 Semester 2\Algorithms\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
